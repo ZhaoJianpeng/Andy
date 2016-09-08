@@ -9,7 +9,7 @@ import com.ant.liao.GifView;
 import com.ant.liao.GifView.GifImageType;
 
 public class MainActivity extends Activity {
-
+	//.......nihao 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
